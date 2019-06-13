@@ -6,6 +6,7 @@
   "license": "MPL-2.0",
   "files":[
       "n.txt",
+      "version.txt",
       "apk.txt"
   ]
 }
