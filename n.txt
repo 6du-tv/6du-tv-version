@@ -1,1 +1,8 @@
-0.0.17
+github.com/6du-tv/6du-tv/releases/download/v0.0.21/6du.tv.tgz
+files.pythonhosted.org/packages/de/63/b4385ec573310ed60eeef6a7f959bcc2e9af84ca07fbb2fc1f1b543437fe/6du.tv-0.0.21.tar.gz
+pypi.doubanio.com/packages/de/63/b4385ec573310ed60eeef6a7f959bcc2e9af84ca07fbb2fc1f1b543437fe/6du.tv-0.0.21.tar.gz
+pypi.tuna.tsinghua.edu.cn/packages/de/63/b4385ec573310ed60eeef6a7f959bcc2e9af84ca07fbb2fc1f1b543437fe/6du.tv-0.0.21.tar.gz
+mirrors.aliyun.com/pypi/packages/de/63/b4385ec573310ed60eeef6a7f959bcc2e9af84ca07fbb2fc1f1b543437fe/6du.tv-0.0.21.tar.gz
+registry.npmjs.org/6du-tv-apk/-/6du-tv-apk-0.0.21.tgz
+registry.npm.taobao.org/6du-tv-apk/-/6du-tv-apk-0.0.21.tgz
+r.cnpmjs.org/6du-tv-apk/-/6du-tv-apk-0.0.21.tgz
