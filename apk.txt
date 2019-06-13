@@ -1,3 +1,8 @@
-https://github.com/6du-tv/6du-tv/releases/download/v$version/6du.tv.tgz
-https://registry.npm.taobao.org/6du-tv-apk/download/6du-tv-apk-$version.tgz
-
+github.com/6du-tv/6du-tv/releases/download/v0.0.22/6du.tv.tgz
+files.pythonhosted.org/packages/42/94/af2778bdf928c22e43911aa868d98954a7b2fd515cae8f55ae7b4d96760e/6du.tv-0.0.22.tar.gz
+pypi.doubanio.com/packages/42/94/af2778bdf928c22e43911aa868d98954a7b2fd515cae8f55ae7b4d96760e/6du.tv-0.0.22.tar.gz
+pypi.tuna.tsinghua.edu.cn/packages/42/94/af2778bdf928c22e43911aa868d98954a7b2fd515cae8f55ae7b4d96760e/6du.tv-0.0.22.tar.gz
+mirrors.aliyun.com/pypi/packages/42/94/af2778bdf928c22e43911aa868d98954a7b2fd515cae8f55ae7b4d96760e/6du.tv-0.0.22.tar.gz
+registry.npmjs.org/6du-tv-apk/-/6du-tv-apk-0.0.22.tgz
+registry.npm.taobao.org/6du-tv-apk/-/6du-tv-apk-0.0.22.tgz
+r.cnpmjs.org/6du-tv-apk/-/6du-tv-apk-0.0.22.tgz
